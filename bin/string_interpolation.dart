@@ -1,3 +1,5 @@
+// ignore_for_file: unnecessary_string_interpolations
+
 /**
  * String Interpolation
  * string mendukung expression, dimana do dalam expression kita bisa mengambil data dari variable lain
@@ -9,6 +11,10 @@ void main() {
   String namaKamu = 'abdu';
   String namaAku = 'gavin';
 
+  String kita = 'lu';
+
   var fullName = '$namaAku $namaKamu';
+  var elu = '$kita';
+  print(elu);
   print(fullName);
 }
