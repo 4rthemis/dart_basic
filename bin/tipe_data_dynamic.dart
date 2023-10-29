@@ -1,3 +1,5 @@
+// ignore_for_file: slash_for_doc_comments
+
 /**
  * Dynamic
  * kadang ada kebutuhan kita ingin membuat variabke yang bisa menampung semua jenis tipe data
