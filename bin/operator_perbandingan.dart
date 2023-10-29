@@ -1,3 +1,5 @@
+// ignore_for_file: slash_for_doc_comments
+
 /**
  * Operator perbandingan
  * operator perbandingan adalah operator yang hasilnya adalah bool
@@ -15,5 +17,5 @@ void main(){
   print(10 == 10);
   print(25 <= 10);
   print(100 != 10);
-  
+
 }
