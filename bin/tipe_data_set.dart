@@ -12,5 +12,6 @@ void main() {
     'Ridwan',
   };
 
+  names.remove('Jamal');
   print(names);
 }
