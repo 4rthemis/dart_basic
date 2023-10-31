@@ -13,5 +13,6 @@ void main() {
   };
 
   names.remove('Jamal');
+  names.add('Rehan');
   print(names);
 }
