@@ -10,4 +10,10 @@ void main(){
   String? name;
   print(name == null ? 'ini nilainya null' : 'tidak null');
 
+  //contoh lain dari penggunaan ternary operator
+  var nilai =80;
+  var ucapan = nilai >= 100  ? 'keren banget' : 'nilia kamu cukup baik';
+  print(ucapan);
+
+
 }
