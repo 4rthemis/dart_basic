@@ -10,7 +10,7 @@ void main(){
   String name = 'abdul';
   String? nullableName = name;
 
-  print(name);
+  print(nullableName);
 
   int? nullableNumber = null;
 
