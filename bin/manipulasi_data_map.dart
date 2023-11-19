@@ -8,4 +8,13 @@ void main(){
 
   name.remove('first');
   print(name);
+
+
+
+  Map<String, String> cars={
+    'truck':'daihatsu',
+    'tour': 'bus',
+  };
+
+  print(cars);
 }
