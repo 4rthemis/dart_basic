@@ -8,6 +8,7 @@ void main(){
 
 
   String? name;
+  // ignore: unnecessary_null_comparison
   print(name == null ? 'ini nilainya null' : 'tidak null');
 
   //contoh lain dari penggunaan ternary operator
