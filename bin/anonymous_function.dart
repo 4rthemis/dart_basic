@@ -11,6 +11,7 @@
 void main(){
 
 print(upperFunction('eko'));
+print(upperFunction('jamal'));
 }
 
 var upperFunction = (String name){
