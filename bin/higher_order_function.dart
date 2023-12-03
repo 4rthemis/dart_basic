@@ -6,6 +6,7 @@
 
 void main() {
   sayHi('eko', filteredBadWord);
+  sayHi('gila', filteredBadWord);
 }
 
 void sayHi(String name, String Function(String) filter) {
